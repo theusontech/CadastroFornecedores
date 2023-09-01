@@ -108,4 +108,4 @@ Após realizar os passos acima você já pode usar livremente a aplicação, bas
 
 ## Créditos
 
-- Matheus Oliveira: meu@email.com
+- Matheus Oliveira: theusontech@gmail.com
