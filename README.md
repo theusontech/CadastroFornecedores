@@ -19,7 +19,7 @@ Credenciais:
 - Fornecedores:
   - Razão Social: str (string)
   - Endereço: str
-  - Contatos: Contato
+  - Contatos: str 
 
 - Contato:
   - Nome: str
